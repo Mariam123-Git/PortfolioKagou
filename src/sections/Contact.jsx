@@ -252,6 +252,7 @@ export const Contact = () => {
             </div>
 
             {/* Availability Card */}
+
             <div className="glass rounded-3xl p-8 border border-primary/30">
               <div className="flex items-center gap-3 mb-4">
                 <span className="w-3 h-3 bg-green-500 rounded-full animate-pulse" />
@@ -260,11 +261,12 @@ export const Contact = () => {
                 </span>
               </div>
               <p className="text-muted-foreground text-sm">
-                Je suis actuellement à la recherche d'une alternance en qualité
-                agroalimentaire en Île-de-France pour l'année 2025-2026.
-                N'hésitez pas à me contacter pour discuter de votre besoin !
+                Je suis ouvert à de nouvelles opportunités dans le domaine de
+                la qualité et de la sécurité agroalimentaire. N'hésitez pas à
+                me contacter pour échanger sur vos besoins !
               </p>
             </div>
+
           </div>
         </div>
       </div>
