@@ -17,7 +17,6 @@ const footerLinks = [
   { href: "#about", label: "À propos" },
   { href: "#experience", label: "Expériences" },
   { href: "#education", label: "Formations" },
-  { href: "#testimonials", label: "Témoignages" },
   { href: "#contact", label: "Contact" },
 ];
 

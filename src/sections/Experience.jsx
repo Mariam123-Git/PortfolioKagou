@@ -9,6 +9,15 @@ const experiences = [
     current: true,
   },
   {
+  period: "juin 2025 — sept. 2025 (4 mois)",
+  role: "Assistant Qualité (CDD)",
+  company: "France",
+  description:
+    "Assistance à la responsable QHSE dans les missions quotidiennes : réalisation d’audits internes, participation à la préparation de la certification IFS Food version 8, mise à jour du système HACCP et contribution à la formation du personnel aux bonnes pratiques d’hygiène et de sécurité alimentaire.",
+  technologies: ["IFS Food V8", "HACCP", "Audits Internes", "QHSE", "Formation"],
+  current: false,
+},
+  {
     period: "2024 — 2025 (2 mois)",
     role: "Stage Assistant Qualité",
     company: "KÄES RACHEL'S, France",
