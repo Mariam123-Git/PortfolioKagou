@@ -108,7 +108,7 @@ export const Hero = () => {
               </AnimatedBorderButton>
             </div>
 
-            {/* Social Links */}
+            {/* Social Links like likedin and mail */}
             <div className="flex items-center gap-4 animate-fade-in animation-delay-400">
               <span className="text-sm text-muted-foreground">Me suivre : </span>
               {[
