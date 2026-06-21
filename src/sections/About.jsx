@@ -41,32 +41,18 @@ export const About = () => {
             </div>
 
             <h2 className="text-4xl md:text-5xl font-bold leading-tight animate-fade-in animation-delay-100 text-secondary-foreground">
-              Assurer la qualité,
+               Ingénieur QHSE &
               <span className="font-serif italic font-normal text-white">
                 {" "}
-                du laboratoire à l'assiette.
+                Sécurité Alimentaire.
               </span>
             </h2>
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
-              <p>
-                Ingénieur diplômé en Industrie Agroalimentaire et actuellement en
-                M2 Nutrition et Sciences des Aliments, parcours Qualité, Sécurité
-                et Environnement de l'Alimentation à Nancy, je me consacre à
-                garantir la sécurité et la qualité des produits alimentaires.
+              <p> 
+                Au cours de mes expériences chez KÄES RACHEL'S , LESAFFRE Maroc et dans mes missions actuelles en QHSE, j’ai participé à la mise en œuvre et au suivi des référentiels ISO 22000 et IFS Food V8, à l’animation du système HACCP, à la réalisation d’audits internes, à la gestion des non-conformités ainsi qu’au déploiement d’actions d’amélioration continue sur le terrain.
               </p>
-              <p>
-                Mon parcours m'a permis d'acquérir une solide expérience en mise
-                en place de référentiels qualité (ISO 22000, IFS Food V8), en
-                gestion HACCP, en audits internes et en amélioration continue grâce
-                aux méthodes Lean Manufacturing et DMAIC, notamment lors de mes
-                stages chez LESAFFRE Maroc et KÄES RACHEL'S.
-              </p>
-              <p>
-                En dehors du travail, je suis passionné par la cuisine
-                traditionnelle malienne, le sport — football et musculation — ainsi
-                que la lecture d'articles scientifiques et de développement personnel.
-              </p>
+              <p> Aujourd’hui, je suis à la recherche d’un CDD ou CDI en tant que Chargé QHSE, Coordinateur QHSE, Assistant Qualité ou Responsable Qualité . Rigoureux, organisé et orienté résultats, je souhaite contribuer à la performance, à la conformité réglementaire et à la sécurité des produits au sein d’une entreprise ambitieuse. </p>
             </div>
 
             <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
