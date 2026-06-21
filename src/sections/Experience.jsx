@@ -1,11 +1,21 @@
 const experiences = [
   {
-    period: "2025 — 2026",
-    role: "Alternance Qualité (recherche en cours)",
-    company: "Île-de-France",
+    period: "sept. 2025 — aujourd’hui",
+    role: "Apprenti QHSE",
+    company: "France",
     description:
-      "En parallèle du M2 Nutrition et Sciences des Aliments, parcours Qualité, Sécurité, Environnement de l'Alimentation à Nancy. Recherche active d'une alternance en qualité agroalimentaire pour mettre en pratique les compétences acquises en HACCP, IFS Food, ISO 22000 et amélioration continue.",
-    technologies: ["HACCP", "IFS Food V8", "ISO 22000", "Audits", "PMS"],
+      "Assistance à la responsable QHSE dans la préparation de la certification IFS Food. Participation aux audits internes et externes, mise à jour du dossier HACCP, suivi du plan de maîtrise sanitaire, réalisation de contrôles qualité, gestion des non-conformités et réclamations clients, contrôle des bonnes pratiques d’hygiène, suivi du nettoyage et de la désinfection, sensibilisation du personnel aux règles de sécurité, contrôle des EPI, gestion des déchets et conformité environnementale.",
+    technologies: [
+      "IFS Food V8",
+      "HACCP",
+      "PMS",
+      "Audits",
+      "QHSE",
+      "Contrôle Qualité",
+      "Sécurité Alimentaire",
+      "EPI",
+      "Non-conformités",
+    ],
     current: true,
   },
   {
