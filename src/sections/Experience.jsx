@@ -2,7 +2,7 @@ const experiences = [
   {
     period: "sept. 2025 — aujourd’hui",
     role: "Apprenti QHSE",
-    company: "France",
+    company: "KÄES RACHEL'S, France",
     description:
       "Assistance à la responsable QHSE dans la préparation de la certification IFS Food. Participation aux audits internes et externes, mise à jour du dossier HACCP, suivi du plan de maîtrise sanitaire, réalisation de contrôles qualité, gestion des non-conformités et réclamations clients, contrôle des bonnes pratiques d’hygiène, suivi du nettoyage et de la désinfection, sensibilisation du personnel aux règles de sécurité, contrôle des EPI, gestion des déchets et conformité environnementale.",
     technologies: [
@@ -21,7 +21,7 @@ const experiences = [
   {
   period: "juin 2025 — sept. 2025 (4 mois)",
   role: "Assistant Qualité (CDD)",
-  company: "France",
+  company: "KÄES RACHEL'S, France",
   description:
     "Assistance à la responsable QHSE dans les missions quotidiennes : réalisation d’audits internes, participation à la préparation de la certification IFS Food version 8, mise à jour du système HACCP et contribution à la formation du personnel aux bonnes pratiques d’hygiène et de sécurité alimentaire.",
   technologies: ["IFS Food V8", "HACCP", "Audits Internes", "QHSE", "Formation"],
