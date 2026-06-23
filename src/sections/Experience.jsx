@@ -29,7 +29,7 @@ const experiences = [
 },
   {
     period: "2024 — 2025 (2 mois)",
-    role: "Stage Assistant Qualité",
+    role: "Stage Assistant QHSE ",
     company: "KÄES RACHEL'S, France",
     description:
       "Contribution à la mise en place du référentiel IFS Food version 8 au sein d'une entreprise spécialisée dans la fabrication de produits de boulangerie, pâtisserie et traiteur. Mise à jour du plan HACCP, gestion de la traçabilité, révision des PRP et réalisation d'audits internes.",
